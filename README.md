@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+I'm currently learning Iptimizely, Gulp, & Vue.js
 
 <!--
 **smoye-chem/smoye-chem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
